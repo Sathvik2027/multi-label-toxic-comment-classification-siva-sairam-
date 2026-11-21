@@ -1,0 +1,32 @@
+# Raw datasets / text (do not publicly commit)
+*.zip
+*.csv.zip
+/content/
+data/
+datasets/
+raw_data/
+# Generated model artifacts and large arrays
+*.joblib
+*.pkl
+*.keras
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+checkpoints/
+models/
+wandb/
+# Credentials and environment
+.env
+.env.*
+!.env.example
+*.key
+*credentials*.json
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

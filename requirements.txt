@@ -1,0 +1,10 @@
+# Minimum top-level packages for Cells 1-13. Pin exact tested versions before formal release.
+numpy
+pandas
+scipy
+scikit-learn
+iterative-stratification
+matplotlib
+seaborn
+joblib
+torch

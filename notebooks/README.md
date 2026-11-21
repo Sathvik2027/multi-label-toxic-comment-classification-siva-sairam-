@@ -1,0 +1,1 @@
+Export the executed Colab notebook with Cells 1–13 and Cell 13A via File -> Download -> Download .ipynb. Put it here as `jigsaw_phase1_cells_01_13A.ipynb`. This starter does not contain the notebook. Remove any tokens/private information and avoid publishing raw toxic comments in output cells.

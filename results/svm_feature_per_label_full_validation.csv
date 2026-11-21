@@ -1,0 +1,7 @@
+Label,Word_SVM_F1,Char_SVM_F1,Combined_SVM_F1
+toxic,0.775,0.785,0.7856
+severe_toxic,0.4211,0.4072,0.4227
+obscene,0.7887,0.8076,0.8097
+threat,0.3571,0.3741,0.3857
+insult,0.6787,0.7028,0.7105
+identity_hate,0.357,0.4241,0.3893

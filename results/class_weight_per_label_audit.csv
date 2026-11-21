@@ -1,0 +1,7 @@
+Label,LR_Unweighted_Tuned_F1,LR_Weighted_Tuned_F1,SVM_Unweighted_Tuned_F1,SVM_Weighted_Tuned_F1,Audit_Support
+toxic,0.7711,0.7735,0.8015,0.7919,1530
+severe_toxic,0.4854,0.5039,0.4882,0.4963,160
+obscene,0.8018,0.8066,0.8141,0.8086,845
+threat,0.3544,0.3761,0.4299,0.4228,48
+insult,0.7053,0.7229,0.7277,0.7213,788
+identity_hate,0.3439,0.4221,0.4895,0.4904,141

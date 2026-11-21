@@ -1,0 +1,5 @@
+Model,Default_Macro_F1,Tuned_Macro_F1,Tuned_Micro_F1,Macro_AP
+LR_Word_TFIDF,0.4539,0.577,0.726,0.6083
+LR_Word_Weighted,0.5688,0.6009,0.7337,0.618
+SVM_Word_Char_TFIDF,0.5668,0.6251,0.7519,0.6431
+SVM_Combined_Weighted,0.6098,0.6219,0.7436,0.6368
